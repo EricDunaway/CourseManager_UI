@@ -13,12 +13,6 @@ export default () => (
     <CssBaseline />
     <Router>
         <Switch>
-            {/* <Route path="/about">
-                <Main />
-            </Route>
-            <Route path="/users">
-                <Users />
-            </Route> */}
             <Route path="/">
                 <Main />
             </Route>
