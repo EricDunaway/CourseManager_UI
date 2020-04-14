@@ -11,6 +11,13 @@ Note: This UI will not function without the JS functions injected by the other p
 ```
 
 **Run `yarn start` before running either the [C++](https://github.com/EricDunaway/CourseManager_cpp) or Python project**
+
+### Steps to run
+
+- clone the project
+- cd into the directory
+- run `yarn install` in project folder
+- run `yarn start` to launch the web server (if it opens a web browsers to localhost ignore/close it)
 ___
 ### Requirements
 
