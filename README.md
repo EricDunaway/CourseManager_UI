@@ -5,6 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is the frontend UI for the C++ and Python projects.
 
+```
+Note: This UI will not function without the JS functions injected by the or Python project
+```
+
 **Run `yarn start` before running either the C++ or Python project**
 ___
 ### Requirements
