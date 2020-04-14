@@ -3,14 +3,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-This is the frontend UI for the C++ and Python projects.
+This is the frontend UI for the [C++](https://github.com/EricDunaway/CourseManager_cpp) and Python projects.
 This will be rendered in the webview for the other projects
 
 ```
 Note: This UI will not function without the JS functions injected by the other project
 ```
 
-**Run `yarn start` before running either the C++ or Python project**
+**Run `yarn start` before running either the [C++](https://github.com/EricDunaway/CourseManager_cpp) or Python project**
 ___
 ### Requirements
 
@@ -19,7 +19,7 @@ ___
 ___
 ### TODO:
 
- - Inline JS and CSS into HTML for embedding into C++ or Python project
+ - Inline JS and CSS into HTML for embedding into [C++](https://github.com/EricDunaway/CourseManager_cpp) or Python project
  - Add UI support for creating students
  - Add UI support for managing course roster
  - Add UI support for removing courses
